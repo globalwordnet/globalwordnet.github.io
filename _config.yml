@@ -1,7 +1,7 @@
 # _config.yml
 
 title: "Global WordNet Assocïation"
-remote_theme: pages-theme/minimal
+remote_theme: pages-theme/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 - jekyll-theme-minimal
