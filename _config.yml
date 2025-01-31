@@ -4,3 +4,4 @@ title: "Global WordNet Assocïation"
 remote_theme: pages-theme/minimal
 plugins:
 - jekyll-remote-theme
+- jekyll-theme-minimal
