@@ -1,0 +1,27 @@
+language,name,semcor_aligned,words,taggable,tagged,developer,contact,browse_online,license,other_resources
+English,SemCor3.0-all,YES,"359,732",N/A,"192,639",Princeton University,Christiane D. Fellbaum,NO,OPEN,Download SemCor WordNet 3.0
+English,SemCor3.0-verbs,YES,"316,814",N/A,"41,497",Princeton University,Christiane D. Fellbaum,NO,OPEN,Download SemCor WordNet 3.0
+Japanese,Jsemcor,YES,"380,000","150,000","58,000","National Institute of Information and Communications Technology of Japan (NICT), Kyoto, Japan",Francis Bond,NO,OPEN,Japanese WordNet
+"Multilingual (English/ Italian)",MultiSemCor+,YES,"English (258,499) Italian (268,905)","Italian (121,175)[3]","English (119,802) Italian (92,420)","Fondazione Bruno Kessler, Center for Communication and Information Technology, Human Language Technology Group, Trento, Italy",Christian Girardi,YES,OPEN CC-BY 3.0 (Filled Request Form required),MultiWordNet
+"Multilingual (English/ Romanian)",SemCor-En/Ro,YES,"Romanian (175,603) English (178,499)","Romanian (88,874)","Romanian (48,392)","Research Institute for Artificial Intelligence “Mihai Drăgănescu”, Romanian Academy",Dan Tufiş,YES,OPEN MS Commons-BY-NC-ND,BalkaNet
+Romanian,RoSemCor,YES,N/A,N/A,N/A,"Research Institute for Artificial Intelligence “Mihai Drăgănescu”, Romanian Academy",Dan Tufiş Dan Cristea,NO,N/A,ELDA/ELRA RoSemCor
+Bulgarian,BulSemCor,NO,"101,062",N/A,"99,480[1]","Department of Computational Linguistics, Bulgarian Academy of Sciences, Sofia, Bulgaria",Svetla Koeva,YES,BROWSE ONLINE ONLY (downloadable excerpts freely under META-SHARE NoRedistribution Non-Commercial license),BulNet
+Basque,EPEC Eusemcor (Basque Semcor),NO,"300,000",N/A,N/A,"University of the Basque Country, IXA Group, Natural Language Processing",Eneko Agirre Mikel Esnaola,YES,BROWSE ONLINE ONLY,Improving the BasqueWordNet by corpus annotation. Multilingual Central Repository 3.0
+Spanish,spsemcor,NO,"850,000",N/A,"23,307","University of the Basque Country, IXA Group, Natural Language Processing",German Rigau,YES,BROWSE ONLINE ONLY,Semantic Hand-Tagging of the SenSem Corpus Using Spanish WordNet Senses. Multilingual Central Repository 3.0
+"Multilingual (Spanish/ Catalan)",AnCora,NO,"Spanish (500,000) Catalan (500,000)",N/A,N/A,,,,,
+Dutch,DutchSemCor,NO,500 Mln,N/A,"282,503[2]","Language and Communication, Faculty of Arts, Vrije Universiteit Amsterdam – Tilburg centre for Creative Computing, Faculty of Arts, University of Tilburg – ISLA, Faculty of Science, University of Amsterdam",Piek Vossen,NO,N/A (downloadable excerpts and statistics free),Cornetto
+"Multilingual (English/ Chinese/ Indonesian/ Japanese)",NTU-MC,NO,"English (115,843) Chinese (105,879) Indonesian (55,865) Japanese (49,144)","English (62,619) Chinese (67,159) Indonesian (36,712) Japanese (20,049)","English (51,147) Chinese (36,173) Indonesian (27,796) Japanese (15,395)","Nanyang Technological University, Division of Linguistics and Multilingual Studies, Singapore",Francis Bond,NO,OPEN CC BY,Tagging is still underway snapshots available here Open Multilingual Wordnet
+German,WebCaGe,NO,N/A,N/A,"10,750",Universität Tübingen,Erhard Hinrichs,NO,OPEN BY-SA,GermaNet
+German,TüBa-D/Z TreeBank,NO,"1,365k",N/A,18k,Universität Tübingen,Verena Henrich,NO,OPEN (distributed without license or other restrictions.),GermaNet
+Italian,ISST (Italian Syntactic-Semantic Treebank),NO,"305,547",N/A,"81,236","National Research Council, Institute of Computational Linguistics, Pisa, Italy",Simonetta Montemagni,NO,OPEN FOR ACADEMIC USE,ItalWordNet (EuroWordNet Italian)
+Arabic,AQMAR Arabic SST,NO,65k,N/A,32k,"Carnegie Mellon University‘s Language Technologies Institute and Computer Science Department, Pittsburgh, Pennsylvania, U.S.A.",Noah Smith,NO,OPEN FOR ACADEMIC USE,Arabic WordNet
+Slovene,jos100k,NO,100k,N/A,5k,"Department of Knowledge Technologies, Jožef Stefan Institute, Ljubljana, Slovenia","Darja Fišer, Tomaž Erjavec",NO,OPEN CC-BY 3.0,sloWNet
+Hungarian,Hungarian WSD,NO,16k,N/A,5k,University of Szeged,Veronika Vincze,NO,OPEN FOR ACADEMIC USE,
+Polish,KPWr,NO,438k,N/A,9k,Wrocław University of Technology,Bartosz Broda,NO,OPEN CC-BY 3.0,plwordnet
+English,Princeton WordNet Gloss Corpus,NO,"1,621,129","656,066","449,355",Princeton University,Christiane D. Fellbaum,NO,OPEN,WordNet 3.0
+English,Groningen Meaning Bank,NO,"1,000k",n/a,n/a,University of Groningen,Johan) Bos,NO,OPEN (distributed without license or other restrictions.),WordNet
+English,MASC,NO,"504,299",N/A,"100,000","Vassar College, Department of Computer Science, Columbia University, Center for Computational Learning Systems, International Computer Science Institute, Berkeley",Nancy Ide Rebecca J. Passonneau Collin F. Baker,NO,OPEN (distributed without license or other restrictions.),Download MASC WordNet 3.0
+English,DSO Corpus,NO,N/A,N/A,93k,National University of Singapore,Hian Beng Lee,NO,RESTRICTED,WordNet 1.5
+English,OntoNotes,NO,"1,500k",N/A,N/A,"Raytheon BBN Technologies, the University of Colorado, the University of Pennsylvania, and the University of Southern California‘s Information Sciences Institute",OntoNotes > People,NO,RESTRICTED,"OntoNotes DB tool, Coarse WordNet"
+English,SemLink,NO,78k,N/A,N/A,University of Colorado Boulder,,NO,OPEN (distributed without license or other restrictions.),"Download SemLink, Coarse WordNet"
+English,Senseval,NO,"5,000","2,212","2,212",University of Pennsylvania,Nancy Ide Benjamin Snyder Martha Palmer,NO,OPEN (distributed without license or other restrictions at the Senseval-3 website),WordNet 1.7.

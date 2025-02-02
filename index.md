@@ -1,18 +1,17 @@
 ---
+layout: default
+title: Global WordNet Association
 ---
 
 
-[Global WordNet Association](https://globalwordnet.org/) {#global-wordnet-association .site-title itemprop="name"}
+[Global WordNet Association](https://globalwordnet.org/)
 ========================================================
 
 A free, public and non-commercial organization that provides a platform
 for discussing, sharing and connecting wordnets for all languages in the
 world.
 
-[More info on GWA](/about-gwa){.blue .button}
-
-![](img/GWA_logo.png){.aligncenter
-width="440" height="300"}
+[More info on GWA](/about-gwa)
 
 ### GWA Conferences
 

@@ -1,0 +1,28 @@
+- title: Home
+  url: /
+- title: About GWA
+  subitems:
+  - title: GWA
+    url: /about-gwa/gwa
+  - title: The Board
+    url: /about-gwa/the-board
+  - title: The Constitution
+    url: /about-gwa/the-constitution
+  - title: Background Document
+    url: /about-gwa/background-document
+- title: Resources
+  subitems:
+  - title: Working Groups
+    url: /resources/working-groups
+  - title: Global WordNet Grid
+    url: /resources/global-wordnet-grid
+  - title: GWA Base Concepts
+    url: /resources/gwa-base-concepts
+  - title: WordNets in the World
+    url: /resources/wordnets-in-the-world
+  - title: WordNet Annotated Corpora
+    url: /resources/wordnet-annotated-corpora
+- title: News
+  url: /news
+- title: Contact
+  url: /contact
