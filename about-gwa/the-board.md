@@ -26,4 +26,4 @@ layout: default
 
 The list of previous members is currently very incomplete!
 
-Piek and Christiane founded the Global Wordnet Association and were Co-presiddents from 2000 to 2021, when they passed the baton.
+Piek and Christiane founded the Global Wordnet Association and were Co-presidents from 2000 to 2021, when they passed the baton.
