@@ -2,3 +2,5 @@
 
 title: "Global WordNet Association"
 logo: img/GWA_logo.png
+exclude: ["README.md"]
+

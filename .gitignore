@@ -6,3 +6,4 @@ _site/
 .bundle/
 vendor/
 Gemfile.lock
+_layouts/.default.html.swp
