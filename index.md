@@ -50,13 +50,13 @@ in Jeju Island. Korea, January 22-26, 2006
 ([GWC2004](http://www.fi.muni.cz/gwc2004/)) in Brno, Czech Republic,
 January 20-23, 2004
 * 1st Global Wordnet Conference 2002
-([GWC2002](http://www.globalwordnet.org/gwa/gwa_conf_01.htm)) in Mysore,
+(GWC2002) in Mysore,
 India, January 21-25, 2002
 
 ### Global WordNet Grid
 
 The building of a completely free worldwide [Global WordNet
-Grid](http://globalwordnet.org/resources/global-wordnet-grid/), which
+Grid](/resources/global-wordnet-grid/), which
 will be build around a shared set of concepts used in many wordnet
 projects.
 

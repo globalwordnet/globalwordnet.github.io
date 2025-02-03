@@ -9,7 +9,7 @@ layout: default
 At the 3rd GWA Conference in Korea, we launched the idea to start
 building a completely free worldwide wordnet grid. This grid will be
 build around a shared set of concepts, such as the [Common Base
-Concepts](http://www.globalwordnet.org/gwa/gwa_base_concepts.htm) used
+Concepts](/gwa/gwa_base_concepts) used
 in many wordnet projects. These concepts will be expressed in terms of
 Wordnet synsets and [SUMO](http://www.ontologyportal.org/) terms. We
 invite people from all language communities to upload synsets from their

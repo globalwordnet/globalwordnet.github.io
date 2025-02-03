@@ -88,9 +88,9 @@ initial selection only English, Dutch, Spanish and Italian were used.
 For the 1012 CBCs, EuroWordNet defined a top-ontology that has been the
 common semantic framework for defining the relations in each individual
 wordnet separately. On the next page you can find a definition of the
-EuroWordNet CBCs and the top-ontology classification: [EuroWordNet Base
+EuroWordNet CBCs and the top-ontology classification: EuroWordNet Base
 Concepts and
-Top-Ontology](http://www.globalwordnet.org/gwa/ewn_to_bc/topont.htm)
+Top-Ontology
 
 In the [BalkaNet](http://www.ceid.upatras.gr/Balkanet/) project, a
 similar approach was applied to another set of languages: Greek,
@@ -99,7 +99,7 @@ synsets and upgraded the mapping of the CBCs to Princeton WordNet 2.0.
 The 5000 CBCs as WordNet2.0 synsets can be downloaded here:
 
 [4689 Common Base Concepts from EuroWordNet and BalkaNet as Wordnet2.0
-synsets](http://globalwordnet.org/wp-content/uploads/2013/07/5000_bc.zip)  
+synsets](/5000_bc.zip)  
 
  
 
@@ -108,8 +108,8 @@ synsets](http://globalwordnet.org/wp-content/uploads/2013/07/5000_bc.zip)
 The Base Concepts have been defined so far in two European projects,
 EuroWordNet and BalkaNet. They played a crucial role in building the
 wordnets. More information can be found in this powerpoint
-presentation: [Building Wordnets, by Piek
-Vossen](http://www.globalwordnet.org/gwa/BuildingWordnets.ppt). Below is
+presentation: Building Wordnets, by Piek
+Vossen. Below is
 a short description of the approach.
 
 Each wordnet was developed in two phases according to a top-down
