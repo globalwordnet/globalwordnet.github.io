@@ -2,39 +2,28 @@
 layout: default
 ---
 
-# the Board
+# The Board
+## Members
 
-**Christiane Fellbaum **  
-Co-President and Co-Founder (2000-2021), co-founder and ex-officio board
-members (2021 —\>)  
-Affiliation: Princeton University, USA  
-e-mail: <Fellbaum@Princeton.edu>
+* President (2025-2026): Francis Bond (bond@ieee.org)
+* Secretary (2022-2025): Maciej Piasecki (maciej.piasecki@pwr.edu.pl)
+* Alexandre Rademaker (arademaker@gmail.com)
+* John McCrae (john@mccr.ae)
+* Petya Osanova
+* Erica Biagetti
 
-**Piek Vossen**  
-Co-President and Co-Founder (2000-2021), co-founder and ex-officio board
-members (2021 —\>)  
-Affiliation: Professor Computational Lexicology Vrije Universiteit (VU)
-Amsterdam, The Netherlands  
-Professor Computational Lexicology VU  
-e-mail: [piek.vossen@vu.nl](mailto:p.vossen@let.vu.nl) /
-[www.vossen.info](http://www.vossen.info)
+## Ex-officio
 
-***BOARD:***
+ * Piek Vossen (co-founder: piek.vossen@vu.nl)
+ * Christiane Fellbaum (co-founder: fellbaum@princeton.edu)
+ * German Rigau (german.rigau@ehu.eus)
+ * Chiara Zanchi (GWC local organizer 2023)
 
-*Pro-term President (2022-2023)*: German Rigau (german.rigau@ehu.eus)
+## Previous Members
 
-*Pro-term vice-president (2022-2023)*: Francis Bond (bond@ieee.org)
+ * Bolette Sandford Pedersen (bspedersen@hum.ku.dk)
+ * Itziar Aldabe (GWC local organizer 2023)
 
-*Secretary (2022-2023)*: Maciej Piasecki (maciej.piasecki@pwr.edu.pl)
+The list of previous members is currently very incomplete!
 
-Alexandre Rademaker (arademaker@gmail.com)
-
-John McCrae (john@mccr.ae)
-
-Bolette Sandford Pedersen (bspedersen@hum.ku.dk)
-
-Piek Vossen (piek.vossen@vu.nl)
-
-Christiane Fellbaum (fellbaum@princeton.edu)
-
- 
+Piek and Christiane founded the Global Wordnet Association and were Co-presiddents from 2000 to 2021, when they passed the baton.
