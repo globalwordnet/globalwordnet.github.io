@@ -11,7 +11,7 @@ A free, public and non-commercial organization that provides a platform
 for discussing, sharing and connecting wordnets for all languages in the
 world.
 
-[More info on GWA](/about-gwa)
+[More info on GWA](/about-gwa/gwa)
 
 ### GWA Conferences
 
@@ -56,7 +56,7 @@ India, January 21-25, 2002
 ### Global WordNet Grid
 
 The building of a completely free worldwide [Global WordNet
-Grid](/resources/global-wordnet-grid/), which
+Grid](/resources/global-wordnet-grid), which
 will be build around a shared set of concepts used in many wordnet
 projects.
 
