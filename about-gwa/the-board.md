@@ -9,7 +9,7 @@ layout: default
 * Secretary (2022-2025): Maciej Piasecki (maciej.piasecki@pwr.edu.pl)
 * Alexandre Rademaker (arademaker@gmail.com)
 * John McCrae (john@mccr.ae)
-* Petya Osanova
+* Petya Osenova (petya@bultreebank.org)
 * Erica Biagetti
 
 ## Ex-officio
