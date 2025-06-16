@@ -1,16 +1,95 @@
 ---
 layout: default
+custom_css: gwa
 ---
 
 # Wordnets in the World
 
- 
-
-[TABLE]
-
 **Wordnets in the World**
+<pre>{{ wordnet.language }}</pre>
+<div class="table-responsive">
+    <table class="table table-sm table-striped table-hover wordnets-table">
+        <thead>
+            <tr>
+                <th>Language</th>
+                <th>Resource Name</th>
+               <th>Online</th>
+               <th>Developer(s)</th>
+                <th>Contact</th>
+                <th>License</th>
+                <th>Other</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for wordnet in site.data.wordnets %}
+            <tr>
+				<td>{% if wordnet.language.size > 5 %}
+                       <span title="{{ wordnet.language  | join: ', ' }}">Multilingual</span>
+                    {% else %}
+                       {{ wordnet.language | join: ', ' }}
+                    {% endif %}
+               </td>
+              <td>{% for name in wordnet.title %}
+                     {% if name[1] != '' %}
+                     <a href="{{ name[1] }}">{{ name[0] }}</a>
+                     {% else %}
+                     {{ name[0] }}
+                     {% endif %}
+                     {% unless forloop.last %}, {% endunless %}
+                  {% endfor %}
+	          </td>
+			 <td>{% for name in wordnet.online %}
+                     {% if name[1] != '' %}
+                     <a href="{{ name[1] }}">{{ name[0] }}</a>
+                     {% else %}
+                     {{ name[0] }}
+                     {% endif %}
+                     {% unless forloop.last %}, {% endunless %}
+                  {% endfor %}
+	          </td>
+			 <td>{% for name in wordnet.developer %}
+                     {% if name[1] != '' %}
+                     <a href="{{ name[1] }}">{{ name[0] }}</a>
+                     {% else %}
+                     {{ name[0] }}
+                     {% endif %}
+                     {% unless forloop.last %}, {% endunless %}
+                  {% endfor %}
+	          </td>
+			 <td>{% for name in wordnet.contact %}
+                     {% if name[1] != '' %}
+                     <a href="{{ name[1] }}">{{ name[0] }}</a>
+                     {% else %}
+                     {{ name[0] }}
+                     {% endif %}
+                     {% unless forloop.last %}, {% endunless %}
+                  {% endfor %}
+	          </td>
+			 <td>{% for name in wordnet.license %}
+                     {% if name[1] != '' %}
+                     <a href="{{ name[1] }}">{{ name[0] }}</a>
+                     {% else %}
+                     {{ name[0] }}
+                     {% endif %}
+                     {% unless forloop.last %}, {% endunless %}
+                  {% endfor %}
+	          </td>
+			 <td>{% for name in wordnet.other %}
+                     {% if name[1] != '' %}
+                     <a href="{{ name[1] }}">{{ name[0] }}</a>
+                     {% else %}
+                     {{ name[0] }}
+                     {% endif %}
+                     {% unless forloop.last %}, {% endunless %}
+                  {% endfor %}
+	          </td>
 
-[TABLE]
+			  
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
 
 Wordnets in the World
 

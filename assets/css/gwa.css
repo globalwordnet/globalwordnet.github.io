@@ -1,0 +1,37 @@
+---
+# This front matter is REQUIRED for Jekyll to process the file
+---
+
+/* WordNet table styles */
+.wordnets-table th {
+  background-color: #f8f9fa;
+  border-bottom: 2px solid #dee2e6;
+}
+
+.wordnets-table td {
+  vertical-align: middle;
+}
+
+.license-open {
+  color: #28a745;
+  font-weight: 500;
+}
+
+.license-restricted {
+  color: #dc3545;
+  font-weight: 500;
+}
+
+.license-academic {
+  color: #fd7e14;
+  font-weight: 500;
+}
+
+.online-yes {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.online-no {
+  color: #6c757d;
+}

@@ -117,7 +117,7 @@ Wordnet Annotated Corpora in the World
     Task](http://www.evalita.it/sites/evalita.fbk.eu/files/working_notes2011/SST/SST_ORGANIZERS.pdf)
 -   **jpn** Francis Bond, Timothy Baldwin, Richard Fothergill and
     Kiyotaka Uchimoto (2012) [*Japanese SemCor: A Sense-tagged Corpus of
-    Japanese*](http://nlpwww.nict.go.jp/wn-ja/pubs/2012-gwc-jsemcor.pdf)
+    Japanese*](https://bond-lab.github.io/pdf/2012-gwc-jsemcor.pdf) ([data](https://github.com/bond-lab/jsemcor))
     in The 6th International Conference of the Global WordNet
     Association (GWC-2012), Matsue.
 -   **rum** Monica Lupu, Diana Trandabat and Maria Husarciuc. [*A

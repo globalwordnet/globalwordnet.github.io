@@ -1,0 +1,1692 @@
+- contact:
+  - - Sonja Bosch
+    - https://globalwordnet.org/resources/boschse@unisa.ac.za
+  - - Marissa Griesel
+    - https://globalwordnet.org/resources/griesm@unisa.ac.za
+  developer:
+  - - University of South Africa
+    - https://literator.org.za/index.php/literator/article/view/1351
+  - - South African Centre for Digital Language Resources
+    - https://www.sadilar.org/
+  language:
+  - isiZulu
+  - isiXhosa
+  - Setswana
+  - Sesotho sa Leboa
+  - Tshivenḓa
+  - Sesotho
+  - isiNdebele
+  - Siswati
+  - Xitsonga
+  license:
+  - - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC
+      BY-NC-SA 4.0)
+    - ''
+  online:
+  - - Partially included in OMW
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - African Wordnet
+    - https://africanwordnet.wordpress.com/
+- contact:
+  - - Ervin Ruci
+    - ''
+  developer:
+  - - Vlora University, Vlora, Albania
+    - http://fjalnet.com/
+  language:
+  - Albanian
+  license:
+  - - (GPL)
+    - http://fjalnet.com/gpl-3.0.pdf
+  online:
+  - - 'YES'
+    - http://fjalnet.com/
+  other:
+  - - ''
+    - ''
+  title:
+  - - AlbaNet
+    - http://fjalnet.com/
+- contact:
+  - - Horacio Rodriguez
+    - ''
+  developer:
+  - - Arabic WordNet
+    - http://nlp.lsi.upc.edu/papers/fellbaum-alkhalifa-206.pdf
+  language:
+  - Arabic
+  license:
+  - - OPEN
+    - ''
+  online:
+  - - (OMW)
+    - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=gridx
+  other:
+  - - ''
+    - ''
+  title:
+  - - Arabic WordNet
+    - http://www.talp.upc.edu/index.php/technology/resources/multilingual-lexicons-and-machine-translation-resources/multilingual-lexicons/72-awn
+- contact:
+  - - Francis Bond
+    - ''
+  developer:
+  - - Computational Linguistics Lab
+    - https://bond-lab.github.io/
+  language:
+  - 200+ languages
+  license:
+  - - OPEN
+    - ''
+  online:
+  - - 'YES'
+    - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=gridx
+  other:
+  - - ''
+    - ''
+  title:
+  - - Open Multilingual Wordnet
+    - https://omwn.org/
+- contact:
+  - - Virach Sornlertlamvanich at tcllab / Virach Sornlertlamvanich at nectec Hitoshi
+      Isahara
+    - ''
+  developer:
+  - - National Electronics and Computer Technology Center (NECTEC)
+    - http://www.nectec.or.th/en/
+  - - Thai Computational Linguistics Laboratory (TCL)
+    - http://www.tcllab.org/
+  - - NICT, Kyoto, Japan
+    - http://www.nict.go.jp/en/index.html
+  language:
+  - Hindi
+  - Indonesian
+  - Japanese
+  - Lao
+  - Mongolian
+  - Burmese
+  - Nepali
+  - Sinhala
+  - Thai
+  - Vietnamese
+  license:
+  - - BSD
+    - http://www.tcllab.org/~wn-th/license.txt
+  online:
+  - - 'YES'
+    - http://www.asianwordnet.org/wnms-playground
+  other:
+  - - ''
+    - ''
+  title:
+  - - Asian WordNet
+    - http://www.asianwordnet.org/about
+- contact:
+  - - wn-msa-developers Francis Bond
+    - ''
+  developer:
+  - - Computational Linguistics Lab
+    - https://bond-lab.github.io/
+  language:
+  - Malaysian
+  - Indonesian
+  license:
+  - - OPEN
+    - ''
+  online:
+  - - 'YES'
+    - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=wnbahasa
+  other:
+  - - ''
+    - ''
+  title:
+  - - Wordnet Bahasa
+    - http://wn-msa.sourceforge.net/index.eng.html
+- contact:
+  - - Sonja Bosch Handré Groenewald
+    - ''
+  developer:
+  - - University of South Africa (UNISA) in Pretoria
+    - http://www.unisa.ac.za/default.html
+  - - North-West University, South Africa
+    - http://www.nwu.ac.za/ctext
+  language:
+  - Bantu languages
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - African WordNet
+    - ''
+- contact:
+  - - Eneko Agirre Arantza Díaz-Ilarraza German Rigau
+    - ''
+  developer:
+  - - University of the Basque Country
+    - http://www.ehu.es/p200-shenhm/en
+  - - Department of Software, Technical University of Catalonia (UPC)
+    - http://www.lsi.upc.edu/?set_language=en
+  language:
+  - English
+  - Spanish
+  - Catalan
+  - Basque
+  - Italian
+  license:
+  - - CC By 3.0
+    - http://www.certifiedchinesetranslation.com/openaccess/WordNet/Bengali.html
+  - - CC-BY-NC-SA
+    - http://creativecommons.org/licenses/by-nc-sa/3.0/
+  online:
+  - - 'YES'
+    - http://ixa2.si.ehu.es/cgi-bin/mcr/public/wei.consult.perl
+  other:
+  - - Web EuroWordnet Interface 0.2 (by LSI-UPC)
+    - http://ixa2.si.ehu.es/cgi-bin/mcr/public/wei.consult.perl
+  title:
+  - - Multilingual Central Repository
+    - http://adimen.si.ehu.es/web/MCR
+- contact:
+  - - Niladri Sekhar Dash
+    - ''
+  developer:
+  - - Indian Statistical Institute, Kolkata, India
+    - http://www.isical.ac.in/
+  language:
+  - Bengali
+  license:
+  - - CC By 3.0
+    - http://www.certifiedchinesetranslation.com/openaccess/WordNet/Bengali.html
+  online:
+  - - 'YES'
+    - http://www.isical.ac.in/~lru/wordnetnew/index.php/site/wordnet
+  other:
+  - - Bengali WordNet
+    - http://www.isical.ac.in/~lru/wordnetnew/
+  title:
+  - - Bengali WordNet
+    - http://www.isical.ac.in/~lru/wordnetnew/
+- contact:
+  - - Svetla Koeva
+    - ''
+  developer:
+  - - Institute for Bulgarian Language (IBL)
+    - http://dcl.bas.bg/BulNet/wordnet_en.html
+  - - Bulgarian Academy of Sciences, Sofia, Bulgaria
+    - http://www.bas.bg/
+  language:
+  - Bulgarian
+  license:
+  - - CC By 3.0
+    - http://www.certifiedchinesetranslation.com/openaccess/WordNet/Bulgarian.html
+  online:
+  - - 'YES'
+    - http://dcl.bas.bg/bulnet/
+  other:
+  - - ELDA/ELRA Bulgarian WordNet (BulNet)
+    - http://catalog.elra.info/product_info.php?products_id=802
+  - - BulSemCor
+    - http://dcl.bas.bg/semcor/en/
+  title:
+  - - BulNet
+    - http://dcl.bas.bg/BulNet/wordnet_en.html
+- contact:
+  - - Dimitrios N. Christodoulakis George Atanassov Totkov
+    - ''
+  developer:
+  - - DATABASE LABORATORY, COMPUTER ENGINEERING AND INFORMATICS DEPARTMENT UNIVERSITY
+      OF PATRAS
+    - http://www.dblab.upatras.gr/gr/index.htm
+  language:
+  - Bulgarian
+  - Czech
+  - Greek
+  - Romanian
+  - Serbian
+  - Turkish
+  license:
+  - - ''
+    - ''
+  online:
+  - - YES (Not Working)
+    - http://150.140.4.170/
+  other:
+  - - ''
+    - ''
+  title:
+  - - BalkaNet
+    - http://www.dblab.upatras.gr/balkanet/
+- contact:
+  - - Chu-Ren Shu-Kai Hsieh
+    - ''
+  developer:
+  - - Lab of Ontologies, Language Processing and e-Humanities, National Taiwan University,
+      Taipei, Republic of China (Taiwan)
+    - http://lope.linguistics.ntu.edu.tw/
+  - - Academica Sinica, Taipei, Republic of China (Taiwan)
+    - http://www.sinica.edu.tw/main_e.shtml
+  language:
+  - Traditional
+  license:
+  - - WordNet
+    - http://www.certifiedchinesetranslation.com/openaccess/WordNet/Chinese.html
+  online:
+  - - 'YES'
+    - http://lope.linguistics.ntu.edu.tw/cwn/query/
+  other:
+  - - Chinese Wordnet
+    - http://lope.linguistics.ntu.edu.tw/cwn/download/
+  title:
+  - - Chinese Wordnet
+    - http://lope.linguistics.ntu.edu.tw/cwn/
+- contact:
+  - - Francis Bond
+    - ''
+  developer:
+  - - Linguistics and Multilingual Studies, NTU
+    - http://linguistics.hss.ntu.edu.sg/Pages/default.aspx
+  language:
+  - Simplified
+  license:
+  - - WORDNET
+    - 
+  online:
+  - - 'YES'
+    - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=cow
+  other:
+  - - ''
+    - ''
+  title:
+  - - Chinese Open Wordnet (COW)
+    - https://bond-lab.github.io/cow/
+- contact:
+  - - Ida Raffaelli Marko Tadic
+    - ''
+  developer:
+  - - University of Zagreb, Faculty of Humanities and Social Sciences, Department/Institute
+      of Linguistics
+    - http://www.ffzg.unizg.hr/international/
+  language:
+  - Croatian
+  license:
+  - - CC-BY-NC-SA
+    - http://creativecommons.org/licenses/by-nc-sa/3.0/
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - Croatian WordNet (CroWN)
+    - http://meta-share.ffzg.hr/repository/browse/croatian-wordnet/32d93d48703d11e28a985ef2e4e6c59e166ec06132a740cbb36e515b093096b2/
+- contact:
+  - - Karel Pala
+    - ''
+  developer:
+  - - Institute of Formal and Applied Linguistics, Faculty of Mathematics and Physics,
+      Charles University in Prague
+    - http://ufal.mff.cuni.cz/
+  language:
+  - Czech
+  license:
+  - - 'OLD VERSION: CC-BY-NC-SA'
+    - http://creativecommons.org/licenses/by-nc-sa/3.0/
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - Czech WordNet 1.9 PDT
+    - https://ufal-point.mff.cuni.cz/xmlui/handle/11858/00-097C-0000-0001-4880-3
+  - - ELDA/ELRA Czech WordNet
+    - http://catalog.elra.info/product_info.php?products_id=1089
+  title:
+  - - Czech WordNet
+    - https://ufal-point.mff.cuni.cz/xmlui/handle/11858/00-097C-0000-0001-4880-3
+- contact:
+  - - Bolette Sandford Pedersen Sanni Nimb
+    - ''
+  developer:
+  - - Center for Sprogteknologi, Københavns Universitet, Copenhagen, Denmark
+    - http://cst.ku.dk/
+  - - Society for Danish Language and Literature, DSL, Denmark
+    - http://dsl.dk/
+  language:
+  - Danish
+  license:
+  - - OPEN
+    - http://wordnet.dk/dannet/license.txt
+  online:
+  - - 'YES'
+    - http://andreord.dk/
+  other:
+  - - ''
+    - ''
+  title:
+  - - DanNet
+    - https://cst.ku.dk/english/projekter/dannet/
+- contact:
+  - - Piek Vossen
+    - ''
+  developer:
+  - - CLTL, Vrije Universiteit Amsterdam
+    - http://wordpress.let.vupr.nl/odwn/
+  language:
+  - Dutch Open Source WordNet
+  license:
+  - - OPEN
+    - http://wordnet.princeton.edu/wordnet/license/
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - CLTL VU University
+    - http://www.cltl.nl
+  title:
+  - - Dutch Open Source WordNet
+    - http://wordpress.let.vupr.nl/odwn/
+- contact:
+  - - Piek Vossen
+    - ''
+  developer:
+  - - University of Amsterdam
+    - http://www.uva.nl/en/home
+  language:
+  - Dutch
+  license:
+  - - RESTRICTED
+    - ''
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ELDA/ELRA EuroWordNet Dutch
+    - http://catalog.elra.info/product_info.php?products_id=545
+  title:
+  - - EuroWordNet Dutch
+    - http://www.illc.uva.nl/EuroWordNet/
+- contact:
+  - - Piek Vossen
+    - ''
+  developer:
+  - - Language and Communication, Faculty of Arts, Vrije Universiteit Amsterdam
+    - http://www.let.vu.nl/en/index.asp
+  - - Nederlandse Taalunie
+    - http://taalunie.org/
+  language:
+  - Dutch
+  license:
+  - - RESTRICTED (Browse Online Free)
+    - ''
+  online:
+  - - 'YES'
+    - http://www2.let.vu.nl/oz/cltl/cornetto/demo.html
+  other:
+  - - TST Centrale Cornetto
+    - http://tst-centrale.org/nl/producten/lexica/cornetto/7-56
+  title:
+  - - Combinatorial and Relational Network as Toolkit for Dutch Language Technology
+      (Cornetto)
+    - http://www2.let.vu.nl/oz/cltl/cornetto/
+- contact:
+  - - Christiane D. Fellbaum
+    - ''
+  developer:
+  - - Princeton University
+    - http://www.princeton.edu/main/
+  language:
+  - English
+  license:
+  - - OPEN
+    - http://wordnet.princeton.edu/wordnet/license/
+  online:
+  - - 'YES'
+    - http://wordnetweb.princeton.edu/perl/webwn
+  other:
+  - - SemCor
+    - http://www.cse.unt.edu/~rada/downloads.html#semcor
+  - - Princeton WordNet Gloss Corpus
+    - http://wordnet.princeton.edu/glosstag.shtml
+  - - MASC
+    - http://www.anc.org/MASC/About.html
+  - - Senseval
+    - http://www.senseval.org/senseval3/
+  title:
+  - - WordNet 3.01
+    - http://wordnet.princeton.edu/wordnet/
+- contact:
+  - - Yorick Wilks
+    - ''
+  developer:
+  - - University of Sheffield
+    - http://www.sheffield.ac.uk/
+  language:
+  - English
+  license:
+  - - RESTRICTED
+    - ''
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ELDA/ELRA EuroWordNet English Addition to English WordNet
+    - http://catalog.elra.info/product_info.php?products_id=546
+  title:
+  - - EuroWordNet English
+    - ''
+- contact:
+  - - Heili Orav
+    - ''
+  developer:
+  - - University of Tartu
+    - http://www.ut.ee/et
+  language:
+  - Estonian
+  license:
+  - - CC – BY – NC
+    - http://creativecommons.org/licenses/by-nc/2.0/
+  online:
+  - - 'YES'
+    - http://www.cl.ut.ee/ressursid/teksaurus/teksaurus.cgi.en
+  other:
+  - - META-SHARE Estonian WordNet(EstWordNet)
+    - http://metashare.ut.ee/repository/browse/estonian-wordnet/4c508ab6463411e2a6e4005056b40024205654ce095e4b04a944e93d9c43c1bb/
+  - - ELDA/ELRA EuroWordNet Estonian
+    - http://catalog.elra.info/product_info.php?products_id=552
+  title:
+  - - Estonian Wordnet (EstWN)
+    - http://www.cl.ut.ee/ressursid/teksaurus/
+- contact:
+  - - Krister Lindén
+    - ''
+  developer:
+  - - University of Helsinki
+    - http://www.helsinki.fi/university/
+  language:
+  - Finnish
+  license:
+  - - CC-BY
+    - http://creativecommons.org/licenses/by/3.0/
+  online:
+  - - 'YES'
+    - http://www.ling.helsinki.fi/cgi-bin/fiwn/search
+  other:
+  - - ''
+    - ''
+  title:
+  - - FinnWordNet
+    - http://www.ling.helsinki.fi/en/lt/research/finnwordnet/index.shtml
+- contact:
+  - - Benoît Sagot
+    - ''
+  developer:
+  - - ALPAGE team
+    - http://www.univ-paris-diderot.fr/sc/site.php?bc=recherche&np=FICHELABO&g=m&num=105G
+  - - INRIA
+    - http://www.inria.fr/
+  - - Université Paris Diderot – Paris 7
+    - http://www.univ-paris-diderot.fr/sc/site.php?bc=accueil&np=accueil
+  language:
+  - French
+  license:
+  - - Cecill-C
+    - http://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html
+  online:
+  - - OMW
+    - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=gridx
+  other:
+  - - ''
+    - ''
+  title:
+  - - WOLF
+    - http://alpage.inria.fr/~sagot/wolf-en.html
+- contact:
+  - - Gaël de Chalendar
+    - ''
+  developer:
+  - - CEA-LIST
+    - http://www-list.cea.fr/en
+  language:
+  - French
+  license:
+  - - CC-BY SA 3.0 FR
+    - http://creativecommons.org/licenses/by-sa/3.0/fr/deed.en
+  online:
+  - - 'YES'
+    - https://wonef.pradet.me/try/
+  other:
+  - - Browse online
+    - https://wonef.pradet.me/try/
+  - - Download WoNeF
+    - https://wonef.pradet.me/data/
+  title:
+  - - WoNeF
+    - https://wonef.pradet.me/
+- contact:
+  - - Marc Elbeze Dominique Dutoit
+    - ''
+  developer:
+  - - Université d’Avignon et des Paysdu Vaucluse (AVI)
+    - http://www.univ-avignon.fr/fr/recherche/laboratoires/strlab/structure/laboratoire-informatique-davignon-ea-931-fre-2.html
+  - - Laboratoire d’Ínformatique Memodata, Caen
+    - http://www.memodata.com/
+  language:
+  - French
+  license:
+  - - RESTRICTED
+    - ''
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ELDA/ELRA EuroWordNet French
+    - http://catalog.elra.info/product_info.php?products_id=550
+  title:
+  - - EuroWordNet French
+    - ''
+- contact:
+  - - Erhard Hinrichs
+    - ''
+  developer:
+  - - Universität Tübingen
+    - http://www.uni-tuebingen.de/
+  language:
+  - German
+  license:
+  - - FOR ACADEMIC USE
+    - http://www.sfs.uni-tuebingen.de/GermaNet/licenses.shtml
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - WebCaGe
+    - http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/webcage.html
+  title:
+  - - GermaNet
+    - http://www.sfs.uni-tuebingen.de/GermaNet/index.shtml
+- contact:
+  - - Erhard Hinrichs
+    - ''
+  developer:
+  - - Universität Tübingen
+    - http://www.uni-tuebingen.de/
+  language:
+  - German
+  license:
+  - - RESTRICTED
+    - ''
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ELDA/ELRA EuroWordNet German
+    - http://catalog.elra.info/product_info.php?products_id=549
+  title:
+  - - EuroWordNet German
+    - ''
+- contact:
+  - - Shuly Wintner
+    - ''
+  developer:
+  - - University of Haifa, Israel
+    - http://www.haifa.ac.il/index.php/en/
+  language:
+  - Hebrew
+  license:
+  - - OPEN
+    - ''
+  online:
+  - - 'YES'
+    - http://multiwordnet.fbk.eu/online/multiwordnet.php
+  other:
+  - - Browse online (on MultiWordNet)
+    - http://multiwordnet.fbk.eu/online/multiwordnet.php
+  title:
+  - - Hebrew WordNet
+    - http://cl.haifa.ac.il/projects/mwn/index.shtml
+- contact:
+  - - Pushpak Bhattacharya
+    - ''
+  developer:
+  - - Indian Institute of Technology Bombay Powai, Mumbai
+    - http://www.iitb.ac.in/
+  language:
+  - Hindi
+  license:
+  - - GNU FDL
+    - http://www.gnu.org/licenses/fdl.html
+  online:
+  - - 'YES'
+    - http://www.cfilt.iitb.ac.in/wordnet/webhwn/wn.php
+  other:
+  - - ''
+    - ''
+  title:
+  - - Hindi WordNet
+    - http://www.cfilt.iitb.ac.in/wordnet/webhwn/
+- contact:
+  - - Veronika Vincze
+    - ''
+  developer:
+  - - University of Szeged
+    - http://www.u-szeged.hu/english/
+  language:
+  - Hungarian
+  license:
+  - - OPEN FOR ACADEMIC USE MetaShare Commons NonCommercial-NoRedistribution (MSCommons_NoCOM-NC-NR)
+    - ''
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - Hungarian WordNet (HuWN)
+    - http://www.inf.u-szeged.hu/rgai/HuWN
+- contact:
+  - - Heidar Jon Hannesson
+    - ''
+  developer:
+  - - Viki, Iceland
+    - ''
+  language:
+  - Icelandic
+  license:
+  - - ''
+    - ''
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - NordicNet (HuWN)
+    - ''
+- contact:
+  - - Nicoletta Calzolari Adriana Roventini Rita Marinelli
+    - ''
+  developer:
+  - - Istituto di Linguistica Computazionale C.N.R., Pisa, Italy
+    - http://www.ilc.cnr.it/indexnoflash.html
+  language:
+  - Italian
+  license:
+  - - RESTRICTED
+    - ''
+  online:
+  - - 'YES'
+    - http://www.ilc.cnr.it/iwndb/iwndb_php/
+  other:
+  - - ELDA/ELRA
+    - http://catalog.elra.info/product_info.php?products_id=1110
+  - - ISST (Italian Syntactic-Semantic Treebank)
+    - http://www.ilc.cnr.it/viewpage.php/sez=ricerca/id=895/vers=ing
+  title:
+  - - ItalWordNet (EuroWordNet Italian)
+    - http://www.ilc.cnr.it/viewpage.php/sez=ricerca/id=834/vers=ita
+- contact:
+  - - Christian Girardi MultiWordNet Staff
+    - ''
+  developer:
+  - - Fondazione Bruno Kessler, Center for Communication and Information Technology,
+      Human Language Technology Group, Trento, Italy
+    - http://www.fbk.eu/
+  language:
+  - Italian
+  - Spanish
+  - Portuguese
+  - Hebrew
+  - Romanian
+  - Latin
+  license:
+  - - CC-BY 3.0
+    - http://creativecommons.org/licenses/by/3.0/
+  online:
+  - - 'YES'
+    - http://multiwordnet.fbk.eu/online/multiwordnet.php
+  other:
+  - - MultiSemCor+
+    - http://multisemcor.fbk.eu/index.php
+  title:
+  - - MultiWordNet
+    - http://multiwordnet.fbk.eu/english/home.php
+- contact:
+  - - Kevin Scannel
+    - ''
+  developer:
+  - - Saint Louis University, Missouri, USA
+    - http://www.slu.edu/
+  language:
+  - Irish
+  license:
+  - - GNU GPL v3
+    - http://www.gnu.org/licenses/gpl.html
+  online:
+  - - YES (3D Browser)
+    - http://www.aimsigh.com/lsg/
+  other:
+  - - wordnet-gaeilge on Google Code
+    - http://code.google.com/p/wordnet-gaeilge/
+  title:
+  - - Líonra Séimeantach na Gaeilge (LSG) Irish Language Semantic Network
+    - http://borel.slu.edu/lsg/index-en.html
+- contact:
+  - - Francis Bond
+    - bond@ieee.org
+    - Hitoshi Isahara
+    - ''
+  developer:
+  - - National Institute of Information and Communications Technology of Japan (NICT),
+      Kyoto, Japan
+    - http://www.nict.go.jp/en/
+  language:
+  - Japanese
+  license:
+  - - JP
+    - http://nlpwww.nict.go.jp/wn-ja/license.txt
+  - - EN
+    - http://wordnet.princeton.edu/wordnet/license/
+  online:
+  - - 'YES'
+    - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?usrname=&gridmode=wnja
+  other:
+  - - Jsemcor
+    - https://github.com/bond-lab/jsemcor
+  title:
+  - - Japanese WordNet
+    - https://bond-lab.github.io/wnja/
+- contact:
+  - - Darren Cook
+    - ''
+  developer:
+  - - Darren Cook
+    - http://dcook.org/
+  language:
+  - Japanese
+  - Chinese
+  - German
+  license:
+  - - MIT License (equivalent to the BSD and LGPL)
+    - http://dcook.org/mlsn/about/license.html
+  online:
+  - - 'YES'
+    - http://dcook.org/mlsn/
+  other:
+  - - ''
+    - ''
+  title:
+  - - Multi-Lingual Semantic Network project
+    - http://dcook.org/mlsn/about/
+- contact:
+  - - Prof. Pushpak Bhattacharya
+    - ''
+  developer:
+  - - Center for Indian Language Technology – CFILT, Indian Institute of Technology
+      Bombay, Powai, Mumbai
+    - http://www.cfilt.iitb.ac.in/
+  language:
+  - Hindi
+  - Assamese
+  - Bengali
+  - Bodo
+  - Gujarati
+  - Kannada
+  - Kashmiri
+  - Konkani
+  - Malayalam
+  - Meitei
+  - Marathi
+  - Nepali
+  - Sanskrit
+  - Tamil
+  - Telugu
+  - Punjabi
+  - Urdu
+  - Oriya
+  license:
+  - - BROWSE ONLINE ONLY
+    - ''
+  online:
+  - - 'YES'
+    - http://www.cfilt.iitb.ac.in/indowordnet/index.jsp
+  other:
+  - - Visualize on IndoWordNet Visualizer
+    - http://www.cfilt.iitb.ac.in/Drawgraph/index.html
+  title:
+  - - IndoWordNet
+    - http://www.cfilt.iitb.ac.in/indowordnet/index.jsp
+- contact:
+  - - Senthil Nathan
+    - ''
+  developer:
+  - - ''
+    - ''
+  language:
+  - Kannada
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - IndianNet
+    - ''
+- contact:
+  - - Seo Jung Yun
+    - ''
+  developer:
+  - - ''
+    - ''
+  language:
+  - Korean
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - ''
+    - ''
+- contact:
+  - - Aesun Yoon
+    - ''
+  developer:
+  - - Pusan National University
+    - http://english.pusan.ac.kr/html/00_main/
+  language:
+  - Korean
+  license:
+  - - BROWSE ONLINE ONLY
+    - ''
+  online:
+  - - YES (Not Working)
+    - http://164.125.65.68/lrms
+  other:
+  - - (KorLex) Browse Online (login as ‘guest’)
+    - http://164.125.65.68/lrms
+  title:
+  - - KorLex (Korean WordNet)
+    - http://www.lt-world.org/kb/resources-and-tools/language-descriptions/ltw_x3alanguage_x5fdescriptions_.2010-10-28.2540969419
+- contact:
+  - - Purya Aliabadi , Kyumars Sheykh Esmaili
+    - ''
+  developer:
+  - - University of Kurdistan
+    - http://www.ukh.ac/
+  language:
+  - Kurdish
+  license:
+  - - ''
+    - ''
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - KurdNet
+    - http://eng.uok.ac.ir/esmaili/research/klpp/en/main.htm
+- contact:
+  - - Dominique Dutoit
+    - ''
+  developer:
+  - - MEMODATA, CAEN (FRANCE)
+    - http://www.memodata.com/
+  language:
+  - French
+  license:
+  - - BROWSE ONLINE ONLY
+    - ''
+  online:
+  - - 'YES'
+    - http://dictionnaire.sensagent.com/dictionnaire/fr-fr/
+  other:
+  - - ''
+    - ''
+  title:
+  - - Memodata – Alexandria
+    - http://www.memodata.com/2004/fr/dictionnaire_en_ligne/index.shtml
+- contact:
+  - - Stefano Minozzi
+    - ''
+  developer:
+  - - University of Verona
+    - http://www.univr.it/jsp/index.jsp?lang=en
+  language:
+  - Latin
+  license:
+  - - CC-BY 3.0
+    - http://creativecommons.org/licenses/by/3.0/
+  online:
+  - - 'YES'
+    - http://multiwordnet.fbk.eu/online/multiwordnet.php
+  other:
+  - - ''
+    - ''
+  title:
+  - - MultiWordNet Latin
+    - http://multiwordnet.fbk.eu/english/home.php
+- contact:
+  - - Normunds Gruzitis
+    - ''
+  developer:
+  - - Institute of Mathematics and Computer Science, University of Latvia
+    - http://www.lumii.lv/Pages/computer.htm
+  language:
+  - Latvian
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - ''
+    - ''
+- contact:
+  - - Martin Saveski & Igor Trajkovski
+    - ''
+  developer:
+  - - Ss. Cyril and Methodius University
+    - http://www.ukim.edu.mk/en_index.php
+  - - Staffordshire University
+    - http://www.staffs.ac.uk/
+  language:
+  - Macedonian
+  license:
+  - - CC BY-NC 3.0
+    - http://creativecommons.org/licenses/by-nc/3.0/
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - Automatic Construction of Wordnets by Using Machine Translation and Language
+      Modeling
+    - http://www.time.mk/trajkovski/papers/is2010.pdf
+  title:
+  - - Macedonian WordNet
+    - ''
+- contact:
+  - - Varghese Aniyan Kizhakkeparampil
+    - ''
+  developer:
+  - - Cochin University of Science and Technology
+    - http://www.cusat.ac.in/
+  language:
+  - Kerala
+  - India
+  license:
+  - - BROWSE ONLINE
+    - ''
+  online:
+  - - 'YES'
+    - ''
+  other:
+  - - Facebook
+    - https://www.facebook.com/MalayalamWordnet/
+  title:
+  - - Malayalam WordNet
+    - http://malayalamwordnet.cusat.ac.in/
+- contact:
+  - - Michael Spagnol
+    - ''
+  developer:
+  - - University of Malta
+    - http://www.um.edu.mt/
+  language:
+  - Maltese
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - ''
+    - ''
+- contact:
+  - - Pushpak Bhattacharya
+    - ''
+  developer:
+  - - Indian Institute of Technology Bombay Powai, Mumbai
+    - http://www.iitb.ac.in/
+  language:
+  - Marathi
+  license:
+  - - BROWSE OLINE ONLY
+    - ''
+  online:
+  - - 'YES'
+    - http://www.cfilt.iitb.ac.in/wordnet/webmwn/
+  other:
+  - - ''
+    - ''
+  title:
+  - - Marathi WordNet
+    - http://www.cfilt.iitb.ac.in/wordnet/webmwn/
+- contact:
+  - - Valentina Demidova
+    - ''
+  developer:
+  - - Kishinev, Moldova, Institute of Mathematics of Academy of Sciences of Moldova
+    - http://www.mathnet.ru/php/organisation.phtml?option_lang=eng&orgid=2531
+  language:
+  - Moldavian
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - BalkaNet
+    - http://www.dblab.upatras.gr/balkanet/
+- contact:
+  - - Niraj Shrestha
+    - ''
+  developer:
+  - - Kishinev, Moldova, Kathmandu University
+    - http://www.ku.edu.np/
+  language:
+  - Nepali
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - ''
+    - ''
+- contact:
+  - - Helge Dyvik
+    - ''
+  developer:
+  - - Bergen University, Norway
+    - http://www.uib.no/en/node/36362
+  language:
+  - Norwegian
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - Norwegian wordnet
+    - ''
+- contact:
+  - - Sanghamitra Mohanty
+    - ''
+  developer:
+  - - Utkal University
+    - http://www.utkaluniversity.ac.in/
+  language:
+  - Oriya
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - ''
+    - ''
+- contact:
+  - - F. Keyvan
+    - ''
+  developer:
+  - - PersiaNet New Jersey, USA
+    - http://persianet.us/
+  language:
+  - Persian
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - PersiaNet
+    - ''
+- contact:
+  - - Mehrnoush Shamsfard
+    - ''
+  developer:
+  - - Shahid Beheshti University, Tehran, Iran
+    - http://en.sbu.ac.ir/
+  - - Iran Telecommunication Research Center (ITRC)
+    - http://www.csri.ac.ir/web/en/itrcHome
+  language:
+  - Persian
+  license:
+  - - OPEN FOR ACADEMIC USE
+    - ''
+  online:
+  - - 'YES'
+    - http://nlp.sbu.ac.ir:8080/farsnet/browser/farsnet_browser.jsp?nc=c50b44bd2ebdcdb46975c127d16afbcd789967b6
+  other:
+  - - FarsNet Web Application
+    - http://nlp.sbu.ac.ir:8080/farsnet/main/Main.jsp?nc=b2b1e6eb8a74e84e0a6512942478367db034e962
+  title:
+  - - FarsNet
+    - ''
+- contact:
+  - - Heshaam Faili Mortaza Montazery
+    - ''
+  developer:
+  - - University of Tehran
+    - http://www.ut.ac.ir/en
+  - - NLP Lab
+    - http://ece.ut.ac.ir/nlp/
+  language:
+  - Persian
+  license:
+  - - OPEN
+    - http://casta-net.jp/~kuribayashi/multi/wns/fas/LICENSE
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - Persian Wordnet
+    - ''
+- contact:
+  - - Prof. Dr. Maciej Piasecki
+    - ''
+  developer:
+  - - Wrocław University of Science and Technology
+    - http://www.portal.pwr.wroc.pl/index,242.dhtml
+  language:
+  - Polish
+  license:
+  - - OPEN
+    - http://plwordnet.pwr.wroc.pl/wordnet/licence
+  online:
+  - - 'YES'
+    - http://plwordnet.pwr.wroc.pl/wordnet/
+  other:
+  - - ''
+    - ''
+  title:
+  - - plWordNet
+    - http://plwordnet.pwr.wroc.pl/wordnet/
+- contact:
+  - - Dr. Prof. Z. Vetulani
+    - ''
+  developer:
+  - - Adam Mickiewicz University (Poznan’, Poland)
+    - https://international.amu.edu.pl/home/home/news
+  language:
+  - Polish
+  license:
+  - - Creative Commons Public License
+    - http://www.ltc.amu.edu.pl/polnet/license.txt
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - Download PolNet
+    - ''
+  title:
+  - - PolNet
+    - ''
+- contact:
+  - - Hugo Gonçalo Oliveira
+    - ''
+  developer:
+  - - CISUC, University of Coimbra
+    - https://www.cisuc.uc.pt/
+  language:
+  - Portuguese
+  license:
+  - - CC BY 3.0
+    - http://creativecommons.org/licenses/by/3.0/
+  online:
+  - - 'YES'
+    - http://ontopt.dei.uc.pt/index.php?sec=consultar
+  other:
+  - - Browse online
+    - http://ontopt.dei.uc.pt/index.php?sec=consultar
+  - - Download Onto.PT
+    - http://ontopt.dei.uc.pt/index.php?sec=downloads
+  title:
+  - - Onto.PT – Portuguese WordNet
+    - http://ontopt.dei.uc.pt/
+- contact:
+  - - Alexandre Rademaker
+    - ''
+  developer:
+  - - Fundação Getúlio Vargas University, Escola de Matemática Aplicada, Rio de Janeiro,
+      Brazil
+    - http://emap.fgv.br/
+  language:
+  - Portuguese
+  license:
+  - - OPEN
+    - ''
+  online:
+  - - OMW
+    - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=gridx
+  other:
+  - - OpenWN-PT on GitHub
+    - https://github.com/arademaker/openWordnet-PT
+  title:
+  - - OpenWN-PT (Brazilian Portuguese Wordnet)
+    - https://github.com/arademaker/openWordnet-PT
+- contact:
+  - - Palmira Marrafa
+    - ''
+  developer:
+  - - Centro de Linguística da Universidade de Lisboa
+    - http://www.clul.ul.pt/
+  language:
+  - Portuguese
+  license:
+  - - BROWSE ONLINE ONLY
+    - ''
+  online:
+  - - 'YES'
+    - http://www.clul.ul.pt/wn/
+  other:
+  - - ''
+    - ''
+  title:
+  - - WordNet.PT – Portuguese WordNet
+    - http://www.clul.ul.pt/clg/wordnetpt/index.html
+- contact:
+  - - Dan Cristea Dan Tufis
+    - ''
+  developer:
+  - - Alexandru Ioan Cuza University, Iasi, Romania
+    - http://www.uaic.ro/uaic/bin/view/Main/?language=en
+  - - Institute for Artificial Intelligence, Romanian Academy, Bucharest
+    - http://www.racai.ro/
+  language:
+  - Romanian
+  license:
+  - - OPEN
+    - ''
+  online:
+  - - 'YES'
+    - http://multiwordnet.fbk.eu/online/multiwordnet.php
+  other:
+  - - SemCor-En/Ro
+    - http://metashare.elda.org/repository/browse/semcor/bb136196fb6811e2a8ad00237df3e358ac542d6f70ea4cfa817dbea1d02f6b84/
+  title:
+  - - BalkaNet
+    - http://www.dblab.upatras.gr/balkanet/
+- contact:
+  - - Dan Tufis
+    - ''
+  developer:
+  - - Institute for Artificial Intelligence, Romanian Academy, Bucharest
+    - http://www.racai.ro/
+  language:
+  - Romanian
+  license:
+  - - BROWSE ONLINE ONLY
+    - ''
+  online:
+  - - 'YES'
+    - http://www.racai.ro/wnbrowser/
+  other:
+  - - ''
+    - ''
+  title:
+  - - Romanian WordNet
+    - ''
+- contact:
+  - - Ilya Gelfenbeyn
+    - ''
+  developer:
+  - - Wordnet.ru
+    - http://wordnet.ru/
+  language:
+  - Russian
+  license:
+  - - OPEN
+    - ''
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - Russian Wordnet (Русский Wordnet)
+    - http://wordnet.ru/
+- contact:
+  - - Irina Azarova
+    - ''
+  developer:
+  - - University of Saint Petersburg, Russia
+    - http://www.eng.spbu.ru/
+  language:
+  - Russian
+  license:
+  - - RESTRICTED (sample available for free)
+    - ''
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - RussNet
+    - http://project.phil.spbu.ru/RussNet/
+- contact:
+  - - Tatyana Yudina
+    - ''
+  developer:
+  - - Center for Information Research at the Computer Center of the Moscow State University
+    - http://www.mathnet.ru/php/organisation.phtml?option_lang=eng&orgid=4792
+  language:
+  - Russian
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - Russian WordNet
+    - ''
+- contact:
+  - - Sanghamitra Mohanty
+    - ''
+  developer:
+  - - Utkal University
+    - http://www.utkaluniversity.ac.in/
+  language:
+  - Sanskrit
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - ilts-utkal.org
+    - http://ilts-utkal.org/
+- contact:
+  - - Malhar Kulkarni Pushpak Bhattacharya
+    - ''
+  developer:
+  - - Indian Institute of Technology
+    - http://www.iitb.ac.in/
+  - - Centre for Indian Language Technology
+    - http://www.cfilt.iitb.ac.in
+  language:
+  - Sanskrit
+  license:
+  - - GNU FDL
+    - http://www.gnu.org/licenses/fdl.html
+  online:
+  - - 'YES'
+    - http://www.cfilt.iitb.ac.in/wordnet/webswn/wn.php
+  other:
+  - - ''
+    - ''
+  title:
+  - - Sanskrit Wordnet
+    - http://www.cfilt.iitb.ac.in/wordnet/webswn/english_version.php
+- contact:
+  - - Gordana Pavlovic-Lazetic Dusko Vitas
+    - ''
+  developer:
+  - - Faculty of Mathematics, University of Belgrade, Serbia
+    - http://www.matf.bg.ac.rs/eng/
+  language:
+  - Serbian
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - BalkaNet
+    - http://www.dblab.upatras.gr/balkanet/
+- contact:
+  - - Gordana Pavlovic-Lazetic Cvetana Krstev
+    - ''
+  developer:
+  - - Faculty of Mathematics, University of Belgrade, Serbia
+    - http://www.matf.bg.ac.rs/eng/
+  language:
+  - Serbian
+  license:
+  - - CC_BY-NC
+    - http://korpus.matf.bg.ac.rs/metanet/licences/SrpWN-licence.zip
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - Serbian Wordnet (SrpWN)
+    - http://korpus.matf.bg.ac.rs/SrpWN/
+- contact:
+  - - Daya Chinthana Wimalasuriya , Gihan Dias
+    - ''
+  developer:
+  - - Department of Computer Science and Engineering
+    - http://www.cse.mrt.ac.lk/
+  - - University of Moratuwa
+    - http://www.mrt.ac.lk/web/
+  language:
+  - Sinhala
+  license:
+  - - not available yet
+    - http://www.wordnet.lk/downloads.html
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - Sinhala Wordnet
+    - http://www.wordnet.lk/
+- contact:
+  - - Darja Fiser Cvetana Krstev
+    - ''
+  developer:
+  - - Dept. of Translation, Faculty of Arts, University of Ljubljana
+    - http://www.prevajalstvo.net/
+  - - Dept. for Knowledge Technologies, Jozef Stefan Institute
+    - http://kt.ijs.si/
+  language:
+  - Slovenian
+  license:
+  - - OPEN
+    - ''
+  online:
+  - - 'YES'
+    - http://nl.ijs.si/slowtool/
+  other:
+  - - email Darja Fiser for a download link
+    - ''
+  title:
+  - - sloWNet
+    - ''
+- contact:
+  - - Felisa Verdejo
+    - ''
+  developer:
+  - - UNED
+    - http://portal.uned.es/portal/page?_pageid=93,24305391,93_24305392&_dad=portal&_schema=PORTAL
+  - - UPC
+    - http://www.upc.edu/?set_language=en
+  - - UB
+    - http://www.ub.edu/web/ub/en/
+  language:
+  - Spanish
+  license:
+  - - RESTRICTED
+    - ''
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - ELDA/ELRA
+    - http://catalog.elra.info/product_info.php?products_id=547
+  title:
+  - - EuroWordNet Spanish
+    - ''
+- contact:
+  - - Maria Toporowska Gronostaj
+    - ''
+  developer:
+  - - Dept. of Swedish University of Goteborg
+    - http://www.svenska.gu.se/english
+  language:
+  - Swedish
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - ''
+    - ''
+- contact:
+  - - Åke Viberg
+    - ''
+  developer:
+  - - Department of Linguistics & Phonetics, Lund University
+    - http://www.sol.lu.se/en/lingvistik/research/
+  language:
+  - Swedish
+  license:
+  - - ''
+    - ''
+  online:
+  - - ''
+    - ''
+  other:
+  - - ''
+    - ''
+  title:
+  - - ''
+    - ''
+- contact:
+  - - Lalitha Devi Sobha
+    - ''
+  developer:
+  - - AU-KBC Research Centre MIT Campus of Anna University Chromepet
+    - http://au-kbc.org/index.html
+  language:
+  - Tamil
+  license:
+  - - OPEN
+    - ''
+  online:
+  - - 'NO'
+    - ''
+  other:
+  - - Download Tamil WordNet
+    - http://nrcfosshelpline.in/smedia/images/downloads/TamilWordnet_v1.0.zip
+  title:
+  - - Tamil WordNet
+    - http://www.au-kbc.org/research_areas/nlp/projects/tamil_wordnet.html
+- contact:
+  - - Kemal Oflazer
+    - ''
+  developer:
+  - - Center for Turkish Language and Speech Processing
+    - http://www.bilkent.edu.tr/bilkent/information/a_z.html
+  language:
+  - Turkish
+  license:
+  - - ''
+    - ''
+  online:
+  - - YES (Not Working)
+    - http://www.hlst.sabanciuniv.edu/TL/
+  other:
+  - - ''
+    - ''
+  title:
+  - - BalkaNet
+    - http://www.dblab.upatras.gr/balkanet/
+- contact:
+  - - Alessandro Agostini
+    - ''
+  developer:
+  - - LDKR Group, Inha University in Tashkent (IUT), Tashkent, Uzbekistan
+    - https://inha.uz
+  language:
+  - Uzbek
+  license:
+  - - CC BY-SA 4.0
+    - https://creativecommons.org/licenses/by-sa/4.0/
+  online:
+  - - 'YES'
+    - https://uzwordnet.ldkr.org/
+  other:
+  - - Reference (GWC-2021)
+    - https://uzwordnet.ldkr.org/storage/references/Agostini2021GWC.pdf
+  title:
+  - - UzWordnet
+    - https://uzwordnet.ldkr.org/

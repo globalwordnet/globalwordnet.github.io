@@ -18,7 +18,7 @@ all languages.
 
 **[Francis Bond](mailto:bond@ieee.org) has taken this idea and created
 the [Open Multilingual
-Wordnet](http://compling.hss.ntu.edu.sg/omw/ "Open Multilingual Wordnet (OMW)"),
+Wordnet](https://omwn.org "Open Multilingual Wordnet (OMW)"),
 which links those concepts that are shared with the Princeton Wordnet.**
 
 The Grid is free and language contributions must therefore be provided
@@ -39,15 +39,13 @@ under one of the following open licenses to be included:
 -   Or other [open licences](http://opendefinition.org/licenses/) (as
     defined by [Open Knowledge](https://okfn.org/about/))
 
-To submit your contribution to the Grid, please send the synsets of your
-language to:
+To submit your contribution to the Grid, please contact:
 
--   [Piek Vossen](mailto:piek.vossen@planet.nl) or [Francis
-    Bond](mailto:bond@ieee.org)
+-   [Francis Bond](mailto:bond@ieee.org)
 
 We will place your language in the Grid as soon as possible!
 
 The list of languages currently in the grid is given
-**[here](http://compling.hss.ntu.edu.sg/omw/ "Open Multilingual Wordnet (OMW)")**.
+**[here](https://omwn.org/omw1.html "Open Multilingual Wordnet (OMW) v1")**.
 
  

@@ -16,7 +16,7 @@ languages in the world.
 * 11th Global WordNet Conference 2021 ([GWC2021](https://www.globalwordnet.co.za/)), Pretoria, South Africa, January 18-22, 2021: VIRTUALLY
 * [Multimodal Wordnets Workshop](http://hitz.eus/multimodalwordnets2020/) @ LREC 2020, Marseille, France, May 11, 2020 : POSTPONED 2022
 * 10th Global WordNet Conference 2019 ([GWC2019](https://gwc2019.clarin-pl.eu)) in Wroclaw, Poland, July 23-27, 2019
-* 9th Global WordNet Conference 2018 ([GWC2018](http://compling.hss.ntu.edu.sg/events/2018-gwc/)) in Singapore, January 8-12, 2018
+* 9th Global WordNet Conference 2018 ([GWC2018](https://bond-lab.github.io/2018-gwc/)) in Singapore, January 8-12, 2018
 * 8th Global WordNet Conference 2016 ([GWC2016](http://gwc2016.racai.ro)) in Bucharest, Romania, January 27-30, 2016
 * 7th Global WordNet Conference 2014 ([GWC2014](http://gwc2014.ut.ee/)) in Tartu, Estonia, January 25-29, 2014
 * 6th Global WordNet Conference 2012 ([GWC2012](http://lang.cs.tut.ac.jp/conference/gwc2012/)) in Matsue, Japan, January 9-13, 2012
