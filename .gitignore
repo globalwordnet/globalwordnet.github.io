@@ -7,3 +7,5 @@ _site/
 vendor/
 Gemfile.lock
 _layouts/.default.html.swp
+# emacs backup
+*~
