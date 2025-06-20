@@ -5,18 +5,19 @@ layout: default
 # The Board
 ## Members
 
-* President (2025-2026): Francis Bond (bond@ieee.org)
-* Secretary (2022-2025): Maciej Piasecki (maciej.piasecki@pwr.edu.pl)
+* Francis Bond (President 2025-2026: bond@ieee.org)
+* John McCrae (Vice President 2025-:  john@mccr.ae)
+* Erica Biagetti (Secretary 2025-: )
+* Maciej Piasecki (maciej.piasecki@pwr.edu.pl) (Secretary, 2022-2025)
 * Alexandre Rademaker (arademaker@gmail.com)
-* John McCrae (john@mccr.ae)
-* Petya Osenova (petya@bultreebank.org)
-* Erica Biagetti
+* Petya Osenova (petya@bultreebank.org) 
+
 
 ## Ex-officio
 
  * Piek Vossen (co-founder: piek.vossen@vu.nl)
  * Christiane Fellbaum (co-founder: fellbaum@princeton.edu)
- * German Rigau (german.rigau@ehu.eus)
+ * German Rigau (german.rigau@ehu.eus)  (President 2022-2024)
  * Chiara Zanchi (GWC local organizer 2023)
 
 ## Previous Members
