@@ -26,6 +26,8 @@ languages in the world.
 * 2nd Global Wordnet Conference 2004 ([GWC2004](http://www.fi.muni.cz/gwc2004/)) in Brno, Czech Republic, January 20-23, 2004
 * 1st Global Wordnet Conference 2002 (GWC2002) in Mysore, India, January 21-25, 2002
 
+Proceedings for 2014-2023 are archived on the [ACL Anthology GWC page](https://aclanthology.org/venues/gwc/).  We are in the process of adding the rest.
+
 ## Global WordNet Grid
 
 The building of a completely free worldwide [Global WordNet
