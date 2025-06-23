@@ -11,7 +11,7 @@ languages in the world.
 
 ## GWA Conferences
 
-* 13th Global Wordnet Conference (GWC2025) organized in Pavia, Italy, January 27-31, 2025.
+* 13th Global Wordnet Conference ([GWC2025](https://unipv-larl.github.io/GWC2025/)) organized in Pavia, Italy, January 27-31, 2025.
 * 12th Global Wordnet Conference ([GWC2023](https://hitz.eus/gwc2023)) Donostia / San Sebastian, Basque Country January 23-27, 2023
 * 11th Global WordNet Conference 2021 ([GWC2021](https://www.globalwordnet.co.za/)), Pretoria, South Africa, January 18-22, 2021: VIRTUALLY
 * [Multimodal Wordnets Workshop](http://hitz.eus/multimodalwordnets2020/) @ LREC 2020, Marseille, France, May 11, 2020 : POSTPONED 2022
