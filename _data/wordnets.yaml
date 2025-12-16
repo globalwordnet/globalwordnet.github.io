@@ -988,25 +988,29 @@
   - - MultiWordNet Latin
     - http://multiwordnet.fbk.eu/english/home.php
 - contact:
-  - - Normunds Gruzitis
-    - ''
+  - - Laura Rituma
+    - laura@ailab.lv
+  - - Lauma Pretkalniņa
+    - lauma@ailab.lv
   developer:
-  - - Institute of Mathematics and Computer Science, University of Latvia
-    - http://www.lumii.lv/Pages/computer.htm
+  - - Artificial Intelligence Laboratory at the Institute of Mathematics and Computer Science, University of Latvia
+    - https://ailab.lv/en/
   language:
   - Latvian
   license:
-  - - ''
-    - ''
+  - - CC BY-SA 4.0
+    - http://creativecommons.org/licenses/by-sa/4.0/
   online:
-  - - ''
+  - - 'NO'
     - ''
   other:
-  - - ''
-    - ''
+  - - Browse Tēzaurs.lv - the largest Latvian dictionary and WordNet
+    - https://tezaurs.lv/
+  - - Download the latest release from CLARIN-LV
+    - http://hdl.handle.net/20.500.12574/137
   title:
-  - - ''
-    - ''
+  - - Latvian WordNet
+    - https://wordnet.ailab.lv/
 - contact:
   - - Martin Saveski & Igor Trajkovski
     - ''
