@@ -22,7 +22,7 @@ languages in the world.
 * 6th Global WordNet Conference 2012 ([GWC2012](http://lang.cs.tut.ac.jp/conference/gwc2012/)) in Matsue, Japan, January 9-13, 2012
 * 5th Global WordNet Conference 2010 ([GWC2010](http://www.globalwordnet-iitb2010.in/)) in Mumbai, India, January 31 -- February 4, 2010
 * 4th Global WordNet Conference 2008 ([GWC2008](http://www.inf.u-szeged.hu/projectdirs/gwc2008/)) in Szeged, Hungary, January 22-25, 2008
-* 3rd Global Wordnet Conference 2006 ([GWC2006](http://semanticweb.kaist.ac.kr/conference/gwc/abstracts.html)) in Jeju Island. Korea, January 22-26, 2006
+* 3rd Global Wordnet Conference 2006 ([GWC2006](http://semanticweb.kaist.ac.kr/conference/gwc/abstracts.html)) in Jeju Island, Korea, January 22-26, 2006
 * 2nd Global Wordnet Conference 2004 ([GWC2004](http://www.fi.muni.cz/gwc2004/)) in Brno, Czech Republic, January 20-23, 2004
 * 1st Global Wordnet Conference 2002 (GWC2002) in Mysore, India, January 21-25, 2002
 

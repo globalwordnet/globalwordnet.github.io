@@ -53,8 +53,7 @@ Wordnet Annotated Corpora in the World
     In Tadić, M., Dimitrova- Vulchanova, M. and Koeva, S. (eds.):
     *Proceedings of the 7th International Conference of Formal
     Approaches to South Slavic and Balkan Languages (FASSBL-7)*, 4-6
-    October 2010, Dubrovnik, Croatia, pp. 41-48. [ISBN
-    978-953-55375-2-6](BookSources/9789535537526).
+    October 2010, Dubrovnik, Croatia, pp. 41-48. ISBN 978-953-55375-2-6.
 -   **baq** Eneko Agirre, Izaskun Aldezabal, Jone Etxeberria,
     EliIzagirre, Karmele Mendizabal, Eli Pociello, and Mikel
     Quintian. 2006. [*Improving the Basque WordNet by corpus
@@ -134,11 +133,10 @@ Wordnet Annotated Corpora in the World
 
 **References**
 
-1.  [↑](#cite_ref-1) Both lexical and function words were subject to
-    annotation
-2.  [↑](#cite_ref-2) 282,503 tagged manually by two annotators, 400,000+
+1.  Both lexical and function words were subject to annotation
+2.  282,503 tagged manually by two annotators, 400,000+
     by at least one annotator, and millions automatically
-3.  [↑](#cite_ref-3) According to Bentivogli and Pianta (2005), 23,4% of
+3.  According to Bentivogli and Pianta (2005), 23,4% of
     Italian words still need to be tagged, so we can estimate (given
     that 92,820 is the 76,6%) the taggable words at 121,175
 

@@ -16,7 +16,7 @@ layout: default
 
 ## Editing the navigation
 
-The navigation is defined in `_data/toc.yml`. To add a new item to the navigation, add a new item to the list. The `title` is the text that will be displayed in the navigation, and the `url` is the path to the page.
+The navigation is defined in `_data/toc.yaml`. To add a new item to the navigation, add a new item to the list. The `title` is the text that will be displayed in the navigation, and the `url` is the path to the page.
 
 ## Creating a new post
 
@@ -52,4 +52,14 @@ You can then run the site locally by running:
 ```
 bundle exec jekyll serve
 ```
+
+## Checking for broken links and HTML errors
+
+After building the site, run [HTMLProofer](https://github.com/gjtorikian/html-proofer) to validate internal links, images, and HTML:
+
+```
+bundle exec jekyll build && bundle exec htmlproofer ./_site --disable-external --no-enforce-https
+```
+
+Add `--swap-urls "^/globalwordnet.github.io/:/"` if the site is built with a non-root `baseurl`.
 

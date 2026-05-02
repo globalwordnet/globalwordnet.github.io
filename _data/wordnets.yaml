@@ -25,9 +25,6 @@
   online:
   - - Partially included in OMW
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - African Wordnet
     - https://africanwordnet.wordpress.com/
@@ -45,9 +42,6 @@
   online:
   - - 'YES'
     - http://fjalnet.com/
-  other:
-  - - ''
-    - ''
   title:
   - - AlbaNet
     - http://fjalnet.com/
@@ -65,9 +59,6 @@
   online:
   - - (OMW)
     - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=gridx
-  other:
-  - - ''
-    - ''
   title:
   - - Arabic WordNet
     - http://www.talp.upc.edu/index.php/technology/resources/multilingual-lexicons-and-machine-translation-resources/multilingual-lexicons/72-awn
@@ -85,9 +76,6 @@
   online:
   - - 'YES'
     - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=gridx
-  other:
-  - - ''
-    - ''
   title:
   - - Open Multilingual Wordnet
     - https://omwn.org/
@@ -119,9 +107,6 @@
   online:
   - - 'YES'
     - http://www.asianwordnet.org/wnms-playground
-  other:
-  - - ''
-    - ''
   title:
   - - Asian WordNet
     - http://www.asianwordnet.org/about
@@ -140,9 +125,6 @@
   online:
   - - 'YES'
     - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=wnbahasa
-  other:
-  - - ''
-    - ''
   title:
   - - Wordnet Bahasa
     - http://wn-msa.sourceforge.net/index.eng.html
@@ -160,9 +142,6 @@
   - - ''
     - ''
   online:
-  - - ''
-    - ''
-  other:
   - - ''
     - ''
   title:
@@ -260,9 +239,6 @@
   online:
   - - YES (Not Working)
     - http://150.140.4.170/
-  other:
-  - - ''
-    - ''
   title:
   - - BalkaNet
     - http://www.dblab.upatras.gr/balkanet/
@@ -299,13 +275,10 @@
   - Simplified
   license:
   - - WORDNET
-    - 
+    - https://wordnet.princeton.edu/license-and-commercial-use
   online:
   - - 'YES'
     - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=cow
-  other:
-  - - ''
-    - ''
   title:
   - - Chinese Open Wordnet (COW)
     - https://bond-lab.github.io/cow/
@@ -323,9 +296,6 @@
     - http://creativecommons.org/licenses/by-nc-sa/3.0/
   online:
   - - 'NO'
-    - ''
-  other:
-  - - ''
     - ''
   title:
   - - Croatian WordNet (CroWN)
@@ -369,9 +339,6 @@
   online:
   - - 'YES'
     - http://andreord.dk/
-  other:
-  - - ''
-    - ''
   title:
   - - DanNet
     - https://cst.ku.dk/english/projekter/dannet/
@@ -520,9 +487,6 @@
   online:
   - - 'YES'
     - http://www.ling.helsinki.fi/cgi-bin/fiwn/search
-  other:
-  - - ''
-    - ''
   title:
   - - FinnWordNet
     - http://www.ling.helsinki.fi/en/lt/research/finnwordnet/index.shtml
@@ -544,9 +508,6 @@
   online:
   - - OMW
     - https://compling.upol.cz/ntumc/cgi-bin/wn-gridx.cgi?gridmode=gridx
-  other:
-  - - ''
-    - ''
   title:
   - - WOLF
     - http://alpage.inria.fr/~sagot/wolf-en.html
@@ -668,9 +629,6 @@
   online:
   - - 'YES'
     - http://www.cfilt.iitb.ac.in/wordnet/webhwn/wn.php
-  other:
-  - - ''
-    - ''
   title:
   - - Hindi WordNet
     - http://www.cfilt.iitb.ac.in/wordnet/webhwn/
@@ -688,9 +646,6 @@
   online:
   - - 'NO'
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - Hungarian WordNet (HuWN)
     - http://www.inf.u-szeged.hu/rgai/HuWN
@@ -707,9 +662,6 @@
     - ''
   online:
   - - 'NO'
-    - ''
-  other:
-  - - ''
     - ''
   title:
   - - NordicNet (HuWN)
@@ -784,7 +736,7 @@
     - http://borel.slu.edu/lsg/index-en.html
 - contact:
   - - Francis Bond
-    - bond@ieee.org
+    - mailto:bond@ieee.org
     - Hitoshi Isahara
     - ''
   developer:
@@ -823,9 +775,6 @@
   online:
   - - 'YES'
     - http://dcook.org/mlsn/
-  other:
-  - - ''
-    - ''
   title:
   - - Multi-Lingual Semantic Network project
     - http://dcook.org/mlsn/about/
@@ -881,9 +830,6 @@
   online:
   - - ''
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - IndianNet
     - ''
@@ -899,9 +845,6 @@
   - - ''
     - ''
   online:
-  - - ''
-    - ''
-  other:
   - - ''
     - ''
   title:
@@ -941,9 +884,6 @@
   online:
   - - 'NO'
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - KurdNet
     - http://eng.uok.ac.ir/esmaili/research/klpp/en/main.htm
@@ -961,9 +901,6 @@
   online:
   - - 'YES'
     - http://dictionnaire.sensagent.com/dictionnaire/fr-fr/
-  other:
-  - - ''
-    - ''
   title:
   - - Memodata – Alexandria
     - http://www.memodata.com/2004/fr/dictionnaire_en_ligne/index.shtml
@@ -981,17 +918,14 @@
   online:
   - - 'YES'
     - http://multiwordnet.fbk.eu/online/multiwordnet.php
-  other:
-  - - ''
-    - ''
   title:
   - - MultiWordNet Latin
     - http://multiwordnet.fbk.eu/english/home.php
 - contact:
   - - Laura Rituma
-    - laura@ailab.lv
+    - mailto:laura@ailab.lv
   - - Lauma Pretkalniņa
-    - lauma@ailab.lv
+    - mailto:lauma@ailab.lv
   developer:
   - - Artificial Intelligence Laboratory at the Institute of Mathematics and Computer Science, University of Latvia
     - https://ailab.lv/en/
@@ -1069,9 +1003,6 @@
   online:
   - - ''
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - ''
     - ''
@@ -1089,9 +1020,6 @@
   online:
   - - 'YES'
     - http://www.cfilt.iitb.ac.in/wordnet/webmwn/
-  other:
-  - - ''
-    - ''
   title:
   - - Marathi WordNet
     - http://www.cfilt.iitb.ac.in/wordnet/webmwn/
@@ -1107,9 +1035,6 @@
   - - ''
     - ''
   online:
-  - - ''
-    - ''
-  other:
   - - ''
     - ''
   title:
@@ -1129,9 +1054,6 @@
   online:
   - - ''
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - ''
     - ''
@@ -1147,9 +1069,6 @@
   - - ''
     - ''
   online:
-  - - ''
-    - ''
-  other:
   - - ''
     - ''
   title:
@@ -1169,9 +1088,6 @@
   online:
   - - ''
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - ''
     - ''
@@ -1187,9 +1103,6 @@
   - - ''
     - ''
   online:
-  - - ''
-    - ''
-  other:
   - - ''
     - ''
   title:
@@ -1233,9 +1146,6 @@
   online:
   - - 'NO'
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - Persian Wordnet
     - ''
@@ -1253,9 +1163,6 @@
   online:
   - - 'YES'
     - http://plwordnet.pwr.wroc.pl/wordnet/
-  other:
-  - - ''
-    - ''
   title:
   - - plWordNet
     - http://plwordnet.pwr.wroc.pl/wordnet/
@@ -1336,9 +1243,6 @@
   online:
   - - 'YES'
     - http://www.clul.ul.pt/wn/
-  other:
-  - - ''
-    - ''
   title:
   - - WordNet.PT – Portuguese WordNet
     - http://www.clul.ul.pt/clg/wordnetpt/index.html
@@ -1378,9 +1282,6 @@
   online:
   - - 'YES'
     - http://www.racai.ro/wnbrowser/
-  other:
-  - - ''
-    - ''
   title:
   - - Romanian WordNet
     - ''
@@ -1397,9 +1298,6 @@
     - ''
   online:
   - - 'NO'
-    - ''
-  other:
-  - - ''
     - ''
   title:
   - - Russian Wordnet (Русский Wordnet)
@@ -1418,9 +1316,6 @@
   online:
   - - 'NO'
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - RussNet
     - http://project.phil.spbu.ru/RussNet/
@@ -1438,9 +1333,6 @@
   online:
   - - ''
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - Russian WordNet
     - ''
@@ -1456,9 +1348,6 @@
   - - ''
     - ''
   online:
-  - - ''
-    - ''
-  other:
   - - ''
     - ''
   title:
@@ -1480,9 +1369,6 @@
   online:
   - - 'YES'
     - http://www.cfilt.iitb.ac.in/wordnet/webswn/wn.php
-  other:
-  - - ''
-    - ''
   title:
   - - Sanskrit Wordnet
     - http://www.cfilt.iitb.ac.in/wordnet/webswn/english_version.php
@@ -1498,9 +1384,6 @@
   - - ''
     - ''
   online:
-  - - ''
-    - ''
-  other:
   - - ''
     - ''
   title:
@@ -1520,9 +1403,6 @@
   online:
   - - 'NO'
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - Serbian Wordnet (SrpWN)
     - http://korpus.matf.bg.ac.rs/SrpWN/
@@ -1541,9 +1421,6 @@
     - http://www.wordnet.lk/downloads.html
   online:
   - - 'NO'
-    - ''
-  other:
-  - - ''
     - ''
   title:
   - - Sinhala Wordnet
@@ -1608,9 +1485,6 @@
   online:
   - - ''
     - ''
-  other:
-  - - ''
-    - ''
   title:
   - - ''
     - ''
@@ -1626,9 +1500,6 @@
   - - ''
     - ''
   online:
-  - - ''
-    - ''
-  other:
   - - ''
     - ''
   title:
@@ -1668,9 +1539,6 @@
   online:
   - - YES (Not Working)
     - http://www.hlst.sabanciuniv.edu/TL/
-  other:
-  - - ''
-    - ''
   title:
   - - BalkaNet
     - http://www.dblab.upatras.gr/balkanet/

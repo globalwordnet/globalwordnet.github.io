@@ -7,7 +7,7 @@ layout: default
 
 * Francis Bond (President 2025-2026: bond@ieee.org)
 * John McCrae (Vice President 2025-:  john@mccr.ae)
-* Erica Biagetti (Secretary 2025-: )
+* Erica Biagetti (Secretary 2025-)
 * Maciej Piasecki (maciej.piasecki@pwr.edu.pl) (Secretary, 2022-2025)
 * Alexandre Rademaker (arademaker@gmail.com)
 * Petya Osenova (petya@bultreebank.org) 
